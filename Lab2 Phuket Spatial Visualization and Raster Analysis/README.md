@@ -90,7 +90,11 @@ Phuket_01012024_30042024_RGB.tif
 Phuket_01012024_30042024_NDVI.tif
 Phuket_01012024_30042024_DEM.tif
 
-Download floder : https://drive.google.com/drive/folders/1n02L901rqXhf0wTQmiVZo4Y_JWW3b_Hd?usp=sharing
+Download floder :
+[Google Drive Folder](https://drive.google.com/drive/u/0/folders/1n02L901rqXhf0wTQmiVZo4Y_JWW3b_Hd)
+
+
+https://drive.google.com/drive/folders/1n02L901rqXhf0wTQmiVZo4Y_JWW3b_Hd?usp=sharing
 
 หมายเหตุ:
 ไฟล์ Raster มีขนาดใหญ่กว่า 25MB จึงไม่ได้อัปโหลดลง GitHub
