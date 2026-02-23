@@ -84,10 +84,10 @@ Lab นี้เป็นการฝึกวิเคราะห์ข้อ�
 ## 📌 โครงสร้างไฟล์
 
 Lab2_Mellada_6606614797.ipynb
-phuket_boundary.geojson
-Phuket_01012024_30042024_RGB.tif
-Phuket_01012024_30042024_NDVI.tif
-Phuket_01012024_30042024_DEM.tif
+* phuket_boundary.geojson
+* Phuket_01012024_30042024_RGB.tif
+* Phuket_01012024_30042024_NDVI.tif
+* Phuket_01012024_30042024_DEM.tif
 
 Download floder :
 [https://drive.google.com/drive/u/0/folders/1n02L901rqXhf0wTQmiVZo4Y_JWW3b_Hd](https://drive.google.com/drive/u/0/folders/1n02L901rqXhf0wTQmiVZo4Y_JWW3b_Hd)
