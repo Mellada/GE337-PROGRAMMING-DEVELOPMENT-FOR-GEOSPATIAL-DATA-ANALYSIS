@@ -86,9 +86,10 @@ Lab นี้เป็นการฝึกวิเคราะห์ข้อ�
 ```
 Lab2_Mellada_6606614797.ipynb
 phuket_boundary.geojson
-Phuket_RGB.tif
-Phuket_NDVI.tif
-Phuket_DEM.tif
+Phuket_01012024_30042024_RGB.tif
+Phuket_01012024_30042024_NDVI.tif
+Phuket_01012024_30042024_DEM.tif
+
 ```
 
 
