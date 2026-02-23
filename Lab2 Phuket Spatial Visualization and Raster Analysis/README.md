@@ -90,6 +90,8 @@ Phuket_01012024_30042024_RGB.tif
 Phuket_01012024_30042024_NDVI.tif
 Phuket_01012024_30042024_DEM.tif
 
+https://drive.google.com/drive/u/0/folders/1n02L901rqXhf0wTQmiVZo4Y_JWW3b_Hd
+
 ```
 
 
