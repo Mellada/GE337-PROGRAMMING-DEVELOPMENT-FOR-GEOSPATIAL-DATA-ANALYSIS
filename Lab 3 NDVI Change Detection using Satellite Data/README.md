@@ -1,4 +1,4 @@
-# 🌿 Lab 3: NDVI Change Detection using Satellite Data
+# Lab 3: NDVI Change Detection using Satellite Data
 
 **Course:** Geographic Information Analysis  
 **Tool:** Google Earth Engine + Python  
